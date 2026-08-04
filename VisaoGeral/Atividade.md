@@ -6,8 +6,6 @@
 
 ## Atividade prática (2º tempo)
 
-Em duplas, respondam às seguintes questões:
-
 ### 01. Quem poderá usar o sistema?
 
 O sistema poderá ser utilizado por:
