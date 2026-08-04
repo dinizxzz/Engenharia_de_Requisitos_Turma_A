@@ -1,6 +1,6 @@
 # Atividade 04/08
 
-**Alunos:** Cauã Diniz e Lucca Peres
+**Alunos:** Cauã Diniz, Lucca Peres e Moisés Cunha
 
 # Sistema de Controle de Alunos
 
